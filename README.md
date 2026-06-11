@@ -1,0 +1,1 @@
+# neals-crypto-scanner
